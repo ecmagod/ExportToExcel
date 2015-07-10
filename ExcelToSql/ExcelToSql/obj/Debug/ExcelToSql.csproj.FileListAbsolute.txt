@@ -1,0 +1,61 @@
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ResolveAssemblyReference.cache
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.Properties.Resources.resources
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.csproj.GenerateResource.Cache
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.exe
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.pdb
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.exe
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.pdb
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmUpdate.resources
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.exe.config
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlRegex.resources
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlSubString.resources
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlAgilityPack.resources
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\HtmlAgilityPack.pdb
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\HtmlAgilityPack.xml
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\office.dll
+E:\彤泰项目\ExcelToSql\ExcelToSql\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\彤泰项目\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmMain.resources
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.exe.config
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.exe
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.pdb
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.exe
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.pdb
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\office.dll
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\HtmlAgilityPack.pdb
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\bin\Debug\HtmlAgilityPack.xml
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmMain.resources
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlAgilityPack.resources
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlRegex.resources
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlSubString.resources
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmUpdate.resources
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.Properties.Resources.resources
+D:\My Documents\Desktop\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.csproj.GenerateResource.Cache
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.exe.config
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.exe
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.pdb
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.csprojResolveAssemblyReference.cache
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmMain.resources
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlAgilityPack.resources
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlRegex.resources
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmHtmlSubString.resources
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.FrmUpdate.resources
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.Properties.Resources.resources
+D:\刘传旭\ExcelToSql\ExcelToSql\obj\Debug\ExcelToSql.csproj.GenerateResource.Cache
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.exe
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\ExcelToSql.pdb
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\FangLab.Framework.dll
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\Memcached.ClientLibrary.dll
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\System.Data.SQLite.dll
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\ChnCharInfo.dll
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\AntiXssLibrary.dll
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\HtmlSanitizationLibrary.dll
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\log4net.dll
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\FangLab.Framework.xml
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\HtmlAgilityPack.pdb
+D:\刘传旭\ExcelToSql\ExcelToSql\bin\Debug\HtmlAgilityPack.xml
